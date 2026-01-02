@@ -1,0 +1,6 @@
+-- TASK 4: FULL DESCRIPTION OF BOOKS TABLE
+-- All SQL keywords are in UPPERCASE
+
+USE alx_book_store;
+
+SHOW CREATE TABLE Books;
